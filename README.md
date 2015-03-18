@@ -1,0 +1,2 @@
+# sdata-downloads
+# Sage is providing the SData Downloads for your convenience only. Unless required by applicable law or agreed to in writing, downloads are distributed on an "as is" basis, without warranties or conditions of any kind, either express or implied. The entire risk as to the use, performance, or results of the downloads is expressly assumed by you. Your use of the downloads in any manner confirms your agreement to these terms.
